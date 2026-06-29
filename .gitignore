@@ -1,0 +1,64 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# ==============================
+# Data
+# ==============================
+data/raw/
+data/cleaned/
+data/processed/
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!data/processed/.gitkeep
+
+# ==============================
+# Models
+# ==============================
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# ==============================
+# Power BI
+# ==============================
+*.pbix
+
+# Generated Reports
+*.pdf
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
