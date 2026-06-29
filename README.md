@@ -177,10 +177,9 @@ Created new features including:
 
 Add screenshots here.
 
-```
-dashboard/
-    screenshots/
-```
+<p align="center">
+  <img src="images/Screenshot%202026-06-26%20220520.png" width="1000">
+</p>
 
 ---
 
@@ -226,14 +225,3 @@ pip install -r requirements.txt
 - Time-Series Price Forecasting
 
 ---
-
-# 👨‍💻 Author
-
-**Souptik Hazra**
-
-- MCA, Vellore Institute of Technology
-- Data Analytics | Machine Learning | Business Intelligence
-
----
-
-## ⭐ If you like this project, don't forget to Star the repository!
